@@ -43,10 +43,8 @@ The goal of this project is to analyze pizza sales data to help the restaurant u
 
 ## 🛠️ Tools & Technologies Used
 
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - **Excel** (Pivot Tables & Dashboard)
 - **Data Visualization** (Charts & Trends)
-- **Git & GitHub**
 
 ---
 
